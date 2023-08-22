@@ -41,7 +41,7 @@ CREATE TABLE "campaign" (
     "backers_count" INT   NOT NULL,
     "country" VARCHAR(2)   NOT NULL,
     "currency" VARCHAR(3)   NOT NULL,
-    "launched_date" TIMESTAMP   NOT NULL,
+    "launch_date" TIMESTAMP   NOT NULL,
     "end_date" TIMESTAMP   NOT NULL,
     "category_id" VARCHAR(4)   NOT NULL,
     "subcategory_id" VARCHAR(8)   NOT NULL,
