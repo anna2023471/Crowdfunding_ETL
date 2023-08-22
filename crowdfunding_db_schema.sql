@@ -2,6 +2,7 @@
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/0aNS45
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+CREATE DATABASE crowdfunding_db;
 
 CREATE TABLE "category" (
     "category_id" VARCHAR(4)   NOT NULL,
