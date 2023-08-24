@@ -7,7 +7,7 @@ In Main folder:
 
 ETL_Mini_Project_CGrant.ipynb - workbook to create the "Category" and "Subcategory" DataFrames.
 
-ETL_Mini_Project_PPriya.ipynb - workbook to create the "Campaign" DataFrame. NB the code for creating the "Category" and "Subcategory" DataFrames in this workbook wascopied from ETL_Mini_PProject_CGrant.
+ETL_Mini_Project_PPriya.ipynb - workbook to create the "Campaign" DataFrame. NB the code for creating the "Category" and "Subcategory" DataFrames in this workbook was copied from ETL_Mini_PProject_CGrant.
 
 ETL_Mini_Project_AKhayrullina.ipynb - workbook to create the "Contacts" DataFrame.
 
