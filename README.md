@@ -19,4 +19,18 @@ crowdfunding_db_file_import.ipynb - workbook to import csv files into crowdfundi
 
 In Resources folder:
 
+crowdfunding.xsls - file used in ETL_Mini_Project_CGrant.ipynb and ETL_Mini_Project_PPriya.ipynb to create the "Category", "Subcategory", and "Contacts" DataFrames.
+
+contacts.xlsx - file used in ETL_Mini_Project_AKhayrullina.ipynb to create the "Contacts" DataFrame.
+
+category.csv - output file created in ETL_Mini_Project_CGrant.ipynb
+
+subcategory.csv - output file created in ETL_Mini_Project_CGrant.ipynb
+
+campaign.csv - output file created in ETL_Mini_Project_PPriya.ipynb
+
+contacts.csv - output file created in ETL_Mini_Project_AKhayrullina.ipynb
+
+Parts of the code in crowdfunding_db_file_import.ipynb were provided by Zhi Hern Tom (TA).
+
 
